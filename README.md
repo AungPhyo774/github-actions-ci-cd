@@ -1,4 +1,4 @@
-# GitHub Actions CI/CD Pipeline with Docker 🚀
+# GitHub Actions CI/CD Pipeline with Docker
 
 A real-world DevOps practice project demonstrating how to build a **Continuous Integration (CI)** pipeline using **GitHub Actions**, **Docker**, and **Docker Hub**.
 
@@ -365,3 +365,13 @@ After completing this lab, I can:
 * Explain the difference between Continuous Integration (CI) and Continuous Delivery (CD).
 * Understand the workflow from source code to Docker Hub.
 * Prepare for automated deployments using SSH and Kubernetes in future projects.
+
+---
+
+# 👨‍💻 Author
+
+**Aung Phyo Hein**
+
+DevOps Engineer Learner | Docker & Cloud Enthusiast
+
+This project was created as part of my hands-on journey to learn and practice modern DevOps workflows, including Docker, GitHub Actions, CI/CD pipelines, and container deployment strategies.
